@@ -22,6 +22,6 @@ The articles in these old newspapers are not arranged as nicely as they are in m
 The Sentence Transformers were quite helpful to figure that out by identifying nearest "Text-boxes" and then grouping them into articles. Still does not work a 100 % of the time.
 ### Final Output
 The output of the Computer vision model looks like the following image:
-![Final Image](script_outputs\rough12.png "Final Image")
+![Final Image](https://github.com/kushagrgoyal/Newspaper-OCR/blob/main/script_outputs/rough12_small.png "Final Image")
 
 The output from the script are the images such as the one attached above and then the actual .txt file containing the text in the order shown in the image.
